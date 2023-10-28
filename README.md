@@ -16,6 +16,8 @@ The **Expense Tracker App** is a user-friendly Python application designed to he
 
 - **Data Storage:** All your expenses are automatically saved in a "expenses.json" file located in the same directory as the application. This ensures easy access to your data and makes it persistent across sessions.
 
+**Note :** The currency symbol used in Expense Report is "Rs." which represents Indian Rupee.
+
 ## Usage
 
 Follow these steps to start using the Expense Tracker App:
