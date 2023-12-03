@@ -1,5 +1,5 @@
 
-# <p align="center"> Expense Tracker App (Python) <br><br> <img src="https://raw.githubusercontent.com/aadilsiddiquee/Expense_Tracker_App/main/Expense_Tracker.png" alt="Expense Tracker Image" width="500" height="250" align="center"> </p>
+# <p align="center"> Expense Tracker App (Python) <br><br> <img src="https://media.licdn.com/dms/image/D4D2DAQGoHOnIDwhLwQ/profile-treasury-image-shrink_800_800/0/1701632862593?e=1702242000&v=beta&t=iyGfOmcoCj9jb40rFhj6zUOqCvPmyDI3vII-xXu5j9A" alt="Expense Tracker Image" width="500" height="250" align="center"> </p>
 
 ## Introduction
 
